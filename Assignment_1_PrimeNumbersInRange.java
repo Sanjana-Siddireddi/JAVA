@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-public class PrimeNumbersInRange {
+public class Assignment_1_PrimeNumbersInRange {
     public static void main(String[] args) {
         System.out.println("Enter range of prime numbers start and end:");
         Scanner sc=new Scanner(System.in);
